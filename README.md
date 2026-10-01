@@ -2,13 +2,13 @@
 
 <img align="right" width="250" src="let-it.gif" alt="gif" />
 
-### 🛠️ Tech stack
+### 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,docker,linux,vscode&perline=10" alt="Tech stack" />
 </p>
 
-### 🚧 Coming soon
+### 🚧 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,visualstudio,idea,cpp&perline=10" alt="Coming soon" />
