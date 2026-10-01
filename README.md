@@ -1,11 +1,11 @@
-## ¡Hola! 👋 Soy sebastiancastellanos3
+## Hi there 👋 I'm sebastiancastellanos3
 
 <img align="right" width="250" src="let-it.gif" alt="gif" />
 
-### 🛠️ Tecnologías
+### 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,docker,linux,vscode&perline=10" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,docker,linux,vscode&perline=10" alt="Tech stack" />
 </p>
 
 ### 🚧 Coming soon
@@ -16,12 +16,12 @@
 
 <br clear="right" />
 
-### 🐍 Mis contribuciones
+### 🐍 My contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake.svg" />
-  <img alt="Animación de la serpiente comiendo contribuciones" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake.svg" />
 </picture>
 
 
