@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&vCenter=true&width=600&lines=Hi+there+%F0%9F%A4%99+I%27m+sebastiancastellanos3;Let+it+ride" alt="Hi there 🤙 I'm sebastiancastellanos3 | Let it ride" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&vCenter=true&width=600&lines=Hi+there+%F0%9F%A4%99+I%27m+sebastiancastellanos3;Let+it+ride" alt="Hi there 🤙 I'm sebastian | Let it ride" /></a>
 
 <img align="right" width="250" src="let-it.gif" alt="gif" />
 
