@@ -1,4 +1,4 @@
-## Hi there 👋 I'm sebastiancastellanos3
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&vCenter=true&width=600&lines=Hi+there+%F0%9F%A4%99+I%27m+sebastiancastellanos3;Let+it+ride" alt="Hi there 🤙 I'm sebastiancastellanos3 | Let it ride" /></a>
 
 <img align="right" width="250" src="let-it.gif" alt="gif" />
 
@@ -16,12 +16,12 @@
 
 <br clear="right" />
 
-### 🐍 My contributions
+### 👾 My contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman.svg" />
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman.svg" />
 </picture>
 
 
