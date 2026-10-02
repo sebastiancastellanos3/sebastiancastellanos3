@@ -19,9 +19,9 @@
 ### 👾 My contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman.svg" />
-  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-contribution-graph.svg" />
 </picture>
 
 
