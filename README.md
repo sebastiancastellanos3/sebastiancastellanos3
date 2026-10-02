@@ -16,7 +16,7 @@
 
 <br clear="right" />
 
-### 👾 My contributions
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastiancastellanos3/sebastiancastellanos3/output/pacman-contribution-graph-dark.svg" />
